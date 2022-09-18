@@ -9,9 +9,9 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">OPERADORES EM JAVA (EXERCÍCIOS)</h3>
+  <h3 align="center">ARRAYS EM JAVA</h3>
   
-  <p align="center">Exercício em Java onde estou Testando operadores. </p>
+  <p align="center">Exercícios de Arrays em Java. </p>
   
   <p align="center">Curso <code>Let's Code.</code> </p>
 

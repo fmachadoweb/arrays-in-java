@@ -11,7 +11,7 @@
 
   <h3 align="center">ARRAYS EM JAVA</h3>
   
-  <p align="center">Exercícios de Arrays em Java. </p>
+  <p align="center">Exercícios de Arrays em Java, esse repositório vou deixar reservado para armazenar os exercicíos e exemplos de arrays em java. </p>
   
   <p align="center">Curso <code>Let's Code.</code> </p>
 
